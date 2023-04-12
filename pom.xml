@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Paypal2</finalName>
+		<finalName>Paypal3</finalName>
 		
 		<plugins>
 			<plugin>
